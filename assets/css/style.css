@@ -15,6 +15,10 @@ body {
     aspect-ratio: 5/4;
 }
 
+/*Presentación*/
+.title-present{
+    font-weight: 700;
+}
 /*cards*/
 
 .card-img-top{
