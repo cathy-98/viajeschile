@@ -10,6 +10,17 @@ body {
     color: #fff;
 }
 
+/*Navegador*/
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
+
+.nav-link, .navbar-brand{
+    font-weight: 400;
+}
+
 /* Carrousel*/
 .carrousel{
     aspect-ratio: 5/4;
@@ -19,6 +30,7 @@ body {
 .title-present{
     font-weight: 700;
 }
+
 /*cards*/
 
 .card-img-top{
@@ -30,10 +42,4 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-
-.nav-black{
-    background-color: black;
-    opacity: 0.9;
-    color: white;
 }
