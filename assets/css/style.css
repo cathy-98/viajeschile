@@ -31,10 +31,23 @@ body {
     font-weight: 700;
 }
 
-/*cards*/
+.text-present{
+    font-weight: 400;
+}
 
+/*cards*/
 .card-img-top{
     aspect-ratio: 5/4;
+}
+
+.card-tittle{
+    font-weight: 700;
+
+}
+
+.card-text{
+    font-weight: 400;
+
 }
 
 /*footer*/
